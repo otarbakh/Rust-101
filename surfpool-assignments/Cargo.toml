@@ -1,0 +1,16 @@
+[package]
+name = "surfpool-assignments"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+solana-client = "3.1.11"
+solana-commitment-config = "3.1.1"
+solana-keypair = "3.1.2"
+solana-signer = "3.0.0"
+solana-native-token = "3.0.0"
+solana-transaction = "3.1.0"
+solana-hash = "3.1.0"
+solana-system-interface = { version = "3.1.0", features = ["bincode"] }
+solana-sdk = "2.1.0"
+serde_json = "1.0"
