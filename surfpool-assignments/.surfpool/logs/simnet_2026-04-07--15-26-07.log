@@ -44,3 +44,17 @@
 [2026-04-07--15-46-03 INFO actix_web::middleware::logger] 127.0.0.1 "GET /assets/meteora.svg HTTP/1.1" 200 1304 "http://127.0.0.1:18488/scenarios" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" 0.000394
 [2026-04-07--15-46-03 INFO actix_web::middleware::logger] 127.0.0.1 "GET /assets/kamino.svg HTTP/1.1" 200 1002 "http://127.0.0.1:18488/scenarios" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" 0.001138
 [2026-04-07--15-46-03 INFO actix_web::middleware::logger] 127.0.0.1 "GET /assets/drift.svg HTTP/1.1" 200 190328 "http://127.0.0.1:18488/scenarios" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" 0.005424
+[2026-04-07--17-13-19 INFO actix_web::middleware::logger] 127.0.0.1 "GET /config HTTP/1.1" 200 165 "http://127.0.0.1:18488/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" 0.001187
+[2026-04-07--17-22-42 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:34122.
+[2026-04-07--17-22-42 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:39962.
+[2026-04-07--17-22-43 INFO actix_web::middleware::logger] 127.0.0.1 "GET /config HTTP/1.1" 200 165 "http://127.0.0.1:18488/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" 0.000879
+[2026-04-07--18-10-06 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:43538.
+[2026-04-07--18-58-33 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:43554.
+[2026-04-07--18-58-33 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:43568.
+[2026-04-07--18-58-33 INFO actix_web::middleware::logger] 127.0.0.1 "GET /config HTTP/1.1" 200 165 "http://127.0.0.1:18488/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" 0.000190
+[2026-04-07--18-58-58 INFO actix_server::worker] shutting down idle worker
+[2026-04-07--18-58-58 INFO actix_server::worker] shutting down idle worker
+[2026-04-07--18-58-58 INFO actix_server::accept] accept thread stopped
+[2026-04-07--18-58-58 INFO actix_server::worker] shutting down idle worker
+[2026-04-07--18-58-58 INFO actix_server::worker] shutting down idle worker
+[2026-04-07--18-58-58 INFO actix_server::worker] shutting down idle worker
